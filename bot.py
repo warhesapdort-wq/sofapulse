@@ -1,4 +1,3 @@
-python
 import time
 print("Bot çalışıyor!")
 while True:
